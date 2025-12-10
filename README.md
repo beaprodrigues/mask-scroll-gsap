@@ -1,6 +1,7 @@
 # Mask Scroll GSAP
 
-![Uploading scroll mask.gif…]()
+![scroll mask](https://github.com/user-attachments/assets/be1aba50-cd0b-4f55-8423-bdeef6ed2a20)
+
 
 Este projeto é uma experiência visual web que utiliza **HTML**, **CSS** e **JavaScript** com a biblioteca **GSAP** para criar um efeito de máscara de texto e zoom controlado pelo scroll.
 
