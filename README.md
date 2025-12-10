@@ -2,7 +2,6 @@
 
 ![Uploading scroll mask.gif…]()
 
-
 Este projeto é uma experiência visual web que utiliza **HTML**, **CSS** e **JavaScript** com a biblioteca **GSAP** para criar um efeito de máscara de texto e zoom controlado pelo scroll.
 
 A aplicação exibe um vídeo de fundo que aparece "dentro" do texto "SÃO PAULO". Ao rolar a página, o texto aumenta de escala (zoom), criando uma transição imersiva onde o espectador "entra" no vídeo.
